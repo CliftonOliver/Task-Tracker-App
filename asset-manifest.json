@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CliftonOliver/clioli4453-project-app.git/static/css/main.2e10fa6c.css",
-    "main.js": "/CliftonOliver/clioli4453-project-app.git/static/js/main.44bb0c6f.js",
-    "static/js/453.be48de06.chunk.js": "/CliftonOliver/clioli4453-project-app.git/static/js/453.be48de06.chunk.js",
-    "index.html": "/CliftonOliver/clioli4453-project-app.git/index.html",
-    "main.2e10fa6c.css.map": "/CliftonOliver/clioli4453-project-app.git/static/css/main.2e10fa6c.css.map",
-    "main.44bb0c6f.js.map": "/CliftonOliver/clioli4453-project-app.git/static/js/main.44bb0c6f.js.map",
-    "453.be48de06.chunk.js.map": "/CliftonOliver/clioli4453-project-app.git/static/js/453.be48de06.chunk.js.map"
+    "main.css": "/clioli4453-project-app/static/css/main.2e10fa6c.css",
+    "main.js": "/clioli4453-project-app/static/js/main.c1eb8f3d.js",
+    "static/js/453.be48de06.chunk.js": "/clioli4453-project-app/static/js/453.be48de06.chunk.js",
+    "index.html": "/clioli4453-project-app/index.html",
+    "main.2e10fa6c.css.map": "/clioli4453-project-app/static/css/main.2e10fa6c.css.map",
+    "main.c1eb8f3d.js.map": "/clioli4453-project-app/static/js/main.c1eb8f3d.js.map",
+    "453.be48de06.chunk.js.map": "/clioli4453-project-app/static/js/453.be48de06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e10fa6c.css",
-    "static/js/main.44bb0c6f.js"
+    "static/js/main.c1eb8f3d.js"
   ]
 }
